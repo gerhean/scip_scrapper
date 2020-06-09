@@ -1,2 +1,4 @@
 # scip_scrapper
-Contains the files for the scrapper used to generate pdf textbook for CS1101S
+Source code for the scrapper used to generate pdf textbook for CS1101S (2019 self-initiated project)
+
+Outdated as the format of the website to be scrapped from had changed. 
